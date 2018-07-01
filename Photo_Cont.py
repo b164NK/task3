@@ -51,3 +51,4 @@ while(True):
 
 cap.release()
 cv2.destroyAllWindows()
+# task2
